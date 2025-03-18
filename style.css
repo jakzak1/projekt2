@@ -1,0 +1,70 @@
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+
+.lewy_1 {
+    width: 70%;
+    height: 400px;
+    background-color: Snow;
+    text-align: center;
+}
+
+
+.lewy_2{
+    width: 70%;
+    height: 400px;
+    background-color: Snow;
+    font-size: 150%;
+}
+
+
+.prawy_1 {
+    width: 30%;
+    height: 150px;
+    background-color: SteelBlue;
+    color: white;
+    text-align: center;
+}
+
+
+.prawy_2 {
+    width: 30%;
+    height: 350px;
+    background-color: SteelBlue;
+    color: white;
+}
+
+
+.prawy_3 {
+    width: 30%;
+    height: 300px;
+    background-color: Snow;
+    text-align: center;
+}
+
+
+footer {
+    background-color: SteelBlue;
+    color: white;
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 250%;
+}
+h3{
+    font-size: large;
+}
+
+
+img {
+    padding: 4px;
+}
+
+img:hover {
+    padding: 3px;
+    border: 1px solid SteelBlue;
+}
